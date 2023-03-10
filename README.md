@@ -1,6 +1,6 @@
-#<center>JAVA WEEK 1 ASSIGNMENT SOLUTIONS WITH OUTPUT:</center>
+# JAVA WEEK 1 ASSIGNMENT SOLUTIONS WITH OUTPUT:
 
-1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
+##1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
 ```
  import java.util.Scanner;
  public class Main {
@@ -21,7 +21,7 @@
 ```
 ![input](1.png)
 ```
-2. Write a Java program to compare two numbers.
+##2. Write a Java program to compare two numbers.
 ```
 import java.util.Scanner;
 public class Main {
@@ -48,7 +48,7 @@ public class Main {
 ```
 ![input](2.png)
 ```
-3.Write a Java program to convert a string to an integer
+##3.Write a Java program to convert a string to an integer
 ```
 public class Main {
     public static void main(String[] args)
@@ -63,7 +63,7 @@ public class Main {
 ```
 ![input](3.png)
 ```
-4.Java Program to find area of rhombus
+##4.Java Program to find area of rhombus
 ```
 import java.util.Scanner;
 public class Main {
@@ -84,7 +84,7 @@ public class Main {
 ```
 ![input](4.png)
 ```
-5. Write a Java program to find the number of days in a month.
+##5. Write a Java program to find the number of days in a month.
 ```
 import java.util.Scanner;
 public class Main {
@@ -119,7 +119,7 @@ public class Main {
 ```
 ![input](5.png)
 ```
-6.Write a Java program to print the even numbers from 1 to 20.
+##6.Write a Java program to print the even numbers from 1 to 20.
 ```
 public class Main {
     public static void main(String[] args)
@@ -139,7 +139,7 @@ public class Main {
 ```
 ![input](6.png)
 ```
-7. Write a Java program to create a simple calculator.
+##7. Write a Java program to create a simple calculator.
 ```
 import java.util.Scanner;
 public class Main {
@@ -181,7 +181,7 @@ public class Main {
 ```
 ![input](7.png)
 ```
-8.Write a Java program to print multiplication table of a number.
+##8.Write a Java program to print multiplication table of a number.
 ```
 import java.util.Scanner;
 public class Main {
