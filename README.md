@@ -2,10 +2,10 @@
 
 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
 
-import java.util.Scanner;
-public class Main {
-    public static void main(String[] args)
-    {
+ import java.util.Scanner;
+ public class Main {
+     public static void main(String[] args)
+     {
 
         Scanner s=new Scanner(System.in);
         int a=s.nextInt();
@@ -15,8 +15,8 @@ public class Main {
         System.out.println("Product of the input number:"+(a*b));
         System.out.println("Quotient of the input number:"+(a/b));
         System.out.println("Remainder of the input number:"+(a%b));
-    }
-}
+     }
+ }
 
 ![input](1.png)
 
